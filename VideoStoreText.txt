@@ -1,0 +1,16 @@
+Nicholas Sena
+Web Application Final Project
+
+My web application is an entertainment store.
+
+For the project I created three tables in SQL: one for customers, employees, and products. 
+
+My SQL chart in the master page, called Customer.Master, shows the name of a person (from a customer chart) who recently brought a video game
+and presents the name of the game (from my products chart) based on the productID. The chart displays those from my customers chart who have
+bought a video game. 
+
+I also use charts in my checkout page which shows the amount of sales per product, as both a bar and pie graph.
+
+JavaScript is used for the HTML (StorePage) Page. Here, the user can leave a review and a statement will print to show how much they like the
+website. The user can pick a title they want to buy, and check for its price. A checkbox allows the user to checkout.
+
